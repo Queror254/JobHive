@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "jobhive",
+    "slug": "jobhive",
+    "icon": "./assets/jobhive2.png",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "splash": {
+      "image": "./assets/jobhive5.png",
+      "resizeMode": "contain"
+    }
+  }
+}
